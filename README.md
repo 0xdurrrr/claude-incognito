@@ -20,10 +20,17 @@ The extension intercepts the API request sent when you start a new conversation 
 
 ### Chrome
 
+[![Available in the Chrome Web Store](https://storage.googleapis.com/web-devrel-public-assets/image/jxnblr7wl43l/mGExtOqz7MRoKsG0a59S/chrome-web-store-badge.png)](https://chromewebstore.google.com/detail/claude-incognito/fcnlmbmmgemeagoladldclaaaobkhmhl)
+
+<details>
+<summary>Manual install (for development)</summary>
+
 1. Download or clone this repository
 2. Go to `chrome://extensions`
 3. Enable **Developer mode** (top right)
 4. Click **Load unpacked** and select the repository folder
+
+</details>
 
 ### Firefox (128+)
 
