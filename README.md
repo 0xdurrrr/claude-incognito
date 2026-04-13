@@ -20,7 +20,7 @@ The extension intercepts the API request sent when you start a new conversation 
 
 ### Chrome
 
-[![Available in the Chrome Web Store](https://storage.googleapis.com/web-devrel-public-assets/image/jxnblr7wl43l/mGExtOqz7MRoKsG0a59S/chrome-web-store-badge.png)](https://chromewebstore.google.com/detail/claude-incognito/fcnlmbmmgemeagoladldclaaaobkhmhl)
+[![Available in the Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png)](https://chromewebstore.google.com/detail/claude-incognito/fcnlmbmmgemeagoladldclaaaobkhmhl)
 
 <details>
 <summary>Manual install (for development)</summary>
