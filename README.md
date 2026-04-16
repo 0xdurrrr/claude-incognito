@@ -34,9 +34,16 @@ The extension intercepts the API request sent when you start a new conversation 
 
 ### Firefox (128+)
 
+[**Install from Firefox Add-ons**](https://addons.mozilla.org/en-US/firefox/addon/claude-incognito/)
+
+<details>
+<summary>Manual install (for development)</summary>
+
 1. Go to `about:debugging#/runtime/this-firefox`
 2. Click **Load Temporary Add-on**
 3. Select `manifest.json` from the repository folder
+
+</details>
 
 ## Usage
 
